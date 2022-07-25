@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmagdy492" alt="ahmedmagdy492" /></a> </p>
 
-- 🔭 I’m currently working on [SFTP Client](https://github.com/ahmedmagdy492/FTP-Client)
+- 🔭 I’m currently working on [Sell_Online Web Api](https://github.com/ahmedmagdy492/Sell_Online)
+- 🔭 I’m currently working on [Sell_Online Android APP](https://github.com/ahmedmagdy492/Sell_Online_AndroidApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmagdy492](https://github.com/ahmedmagdy492)
 
