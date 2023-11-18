@@ -12,6 +12,7 @@
 - 💬 Ask me about **Programming**
 
 - 📫 How to reach me **ahmedmagdy41996@gmail.com**
+- Some other apps that you can you download and give a shot or to even try online <a href="https://ahmedmagdy492.github.io/other-apps.html">click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
