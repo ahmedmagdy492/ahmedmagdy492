@@ -4,15 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmagdy492&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmagdy492" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmagdy492" alt="ahmedmagdy492" /></a> </p>
-
-- 🔭 I’m currently working on Creating some cool hacking tools
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedmagdy492](https://github.com/ahmedmagdy492)
-
-- 💬 Ask me about **Programming**
-
-- 📫 How to reach me **ahmedmagdy41996@gmail.com**
-- Some other apps that you can you download and give a shot or to even try online <a href="https://ahmedmagdy492.github.io/other-apps.html">click here</a>
+<h2>You can visit my personal webisite on github by visting the following <a href="https://ahmedmagdy492.github.io/" target="_blank">link</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
