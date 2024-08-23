@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmagdy492&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmagdy492" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmagdy492" alt="ahmedmagdy492" /></a> </p>
-<h2>You can visit my personal webisite on github by visting the following <a href="https://ahmedmagdy492.github.io/" target="_blank">link</a></h2>
+<h2>You can visit my personal webisite on github by clicking on the following <a href="https://ahmedmagdy492.github.io/" target="_blank">link</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
